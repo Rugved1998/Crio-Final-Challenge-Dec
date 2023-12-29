@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 172px;
+    height:47px;
+    border: solid var(--text-color) 2px;
+}
+.header{
+
+    background-color: var(--secondary-color);
+   
+    color:var(--text-color);
+  
+
+}
